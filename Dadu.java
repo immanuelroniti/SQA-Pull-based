@@ -1,4 +1,5 @@
-import java.util.Random;  
+import java.util.Random;
+
 public final class Dadu {
      public static final int DEFAULT_SISI = 6;
 
@@ -32,4 +33,8 @@ public final class Dadu {
      public String toString() {
          return "Jumlah sisi dadu: " + getJumSisi() + " hasil: " + getHasil();
      }
+     
+    public static void main(String[] args) {
+         System.out.println("Sistem berjalan");
+    }
  }
