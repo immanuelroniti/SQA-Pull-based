@@ -31,5 +31,6 @@ public final class Dadu {
     @Override
      public String toString() {
          return "Jumlah sisi dadu: " + getJumSisi() + " hasil: " + getHasil();
+         
      }
  }
