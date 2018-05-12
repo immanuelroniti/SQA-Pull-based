@@ -1,3 +1,5 @@
+package dadu;
+
 import java.util.Random;
 
 
